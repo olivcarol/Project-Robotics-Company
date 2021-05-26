@@ -1,4 +1,6 @@
-# Project-Robotics-Company
+# Project: Robotics Company
+<img width="776" alt="Screen Shot 2021-05-26 at 2 12 29 AM" src="https://user-images.githubusercontent.com/80420919/119605888-ec910280-bdc7-11eb-84e9-ee1a21beaa83.png">
+
 Project proposed by Codecademy (course "Learn Python 3) - studying classes and methods
 
 Scope:
